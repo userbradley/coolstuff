@@ -37,5 +37,6 @@ https://github.com/denysdovhan/spaceship-prompt
 https://github.com/denysdovhan/spaceship-prompt/blob/master/docs/Troubleshooting.md#why-doesnt-my-prompt-look-like-the-preview
 https://github.com/zsh-users/zsh-syntax-highlighting/blob/master/INSTALL.md
 - https://github.com/aquasecurity/cloudsploit
+- https://github.com/aquasecurity/postee
 fish
 tfswitch
