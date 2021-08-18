@@ -1,15 +1,15 @@
-https://revealjs.com/
-https://www.hashicorp.com/state-of-the-cloud?mkt_tok=ODQ1LVpMRi0xOTEAAAF--CZ_PzzAqBgqlB84FIB_pAGE6VPJ43VjzfJ8-Zxp-2IGX4YcaMlA8lsTasLdF8GIMyHtvo29GlgqAVEHbqKMyta6FWEjTpr7oitA_LyPoNf1
-https://github.com/telekom-security/tpotce#postinstall
-https://github.com/aquasecurity/tfsec
-https://github.com/aquasecurity/trivy
-https://github.com/MicrosoftDocs/cloud-adoption-framework/blob/master/docs/ready/azure-best-practices/resource-naming.md
-https://www.waypointproject.io/docs/getting-started
-https://binx.io/blog/2021/03/10/how-to-tell-ansible-to-use-gcp-iap-tunneling/
-https://github.com/nccgroup/ScoutSuite
-https://github.com/jina-ai/jina/blob/master/.github/pages/hello-world.md#-multimodal-document-search
-https://github.com/google/peoplemath
-https://github.com/google/CodeCity/blob/master/docs/setup.md
+- https://revealjs.com/
+- https://www.hashicorp.com/state-of-the-cloud?mkt_tok=ODQ1LVpMRi0xOTEAAAF--CZ_PzzAqBgqlB84FIB_pAGE6VPJ43VjzfJ8-Zxp-2IGX4YcaMlA8lsTasLdF8GIMyHtvo29GlgqAVEHbqKMyta6FWEjTpr7oitA_LyPoNf1
+- https://github.com/telekom-security/tpotce#postinstall
+- https://github.com/aquasecurity/tfsec
+- https://github.com/aquasecurity/trivy
+- https://github.com/MicrosoftDocs/cloud-adoption-framework/blob/master/docs/ready/azure-best-practices/resource-naming.md
+- https://www.waypointproject.io/docs/getting-started
+- https://binx.io/blog/2021/03/10/how-to-tell-ansible-to-use-gcp-iap-tunneling/
+- https://github.com/nccgroup/ScoutSuite
+- https://github.com/jina-ai/jina/blob/master/.github/pages/hello-world.md#-multimodal-document-search
+- https://github.com/google/peoplemath
+- https://github.com/google/CodeCity/blob/master/docs/setup.md
 https://github.com/google/nomulus/blob/master/docs/install.md
 https://medium.com/coinmonks/one-click-chainlink-deployment-9cd39833d72d
 https://devopscube.com/packer-tutorial-for-beginners/
@@ -36,5 +36,6 @@ https://github.com/powerline/fonts
 https://github.com/denysdovhan/spaceship-prompt
 https://github.com/denysdovhan/spaceship-prompt/blob/master/docs/Troubleshooting.md#why-doesnt-my-prompt-look-like-the-preview
 https://github.com/zsh-users/zsh-syntax-highlighting/blob/master/INSTALL.md
+- https://github.com/aquasecurity/cloudsploit
 fish
 tfswitch
