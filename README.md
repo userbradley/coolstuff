@@ -24,7 +24,7 @@
 - https://github.com/kelseyhightower/jira-on-kubernetes
 - https://github.com/Praqma/jira
 - https://web.archive.org/web/20141217110717/http://mackeys.info/
-http://nhsuk-prototype-kit.azurewebsites.net/docs
+- http://nhsuk-prototype-kit.azurewebsites.net/docs
 - https://github.com/nhsx/self-isolation-prototype
 - https://api.github.com/users/userbradley/keys
 - https://github.com/Naereen/badges
@@ -39,5 +39,6 @@ http://nhsuk-prototype-kit.azurewebsites.net/docs
 - https://github.com/aquasecurity/cloudsploit
 - https://github.com/aquasecurity/postee
 - http://port.us.org
+- https://gist.github.com/kmjones1979/9ada952922e56c78dbceadd614d2df73
 - fish
 - tfswitch
