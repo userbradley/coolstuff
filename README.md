@@ -43,3 +43,4 @@
 - https://console.dev
 - fish
 - tfswitch
+- sshuttle
