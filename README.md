@@ -44,3 +44,4 @@
 - fish
 - tfswitch
 - sshuttle
+- minicom
