@@ -45,3 +45,4 @@
 - tfswitch
 - sshuttle
 - minicom
+- brew install plow
