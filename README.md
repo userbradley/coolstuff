@@ -46,3 +46,4 @@
 - sshuttle
 - minicom
 - brew install plow
+- trunk (https://docs.trunk.io)
