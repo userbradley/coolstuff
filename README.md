@@ -47,3 +47,4 @@
 - minicom
 - brew install plow
 - trunk (https://docs.trunk.io)
+- https://jsonformatter.org/json-parser
