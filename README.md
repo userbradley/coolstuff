@@ -59,9 +59,11 @@
 | [Spaceship](https://github.com/denysdovhan/spaceship-prompt)                            | Spaceship prompt             |
 | [ZSH util](https://github.com/zsh-users/zsh-syntax-highlighting/blob/master/INSTALL.md) | ZSH Styling and autocomplete |
 
-General tools
-https://github.com/google/peoplemath
-https://github.com/aquasecurity/postee
+# General tools [](#general)
+| Link                                               | Description                                | 
+|----------------------------------------------------|--------------------------------------------|
+| [Peoplemath](https://github.com/google/peoplemath) | Allows managers to better work around time |
+| [Postee](https://github.com/aquasecurity/postee)   | Simple messaging platform                  |
 
 Analytics
 https://github.com/mikecao/umami
