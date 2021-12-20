@@ -36,24 +36,33 @@
 
 
 # Kubernetes [](#kubernetes)
-| Description                                                                                             | Link                                  | 
+| Link                                                                                                    | Description                           | 
 |---------------------------------------------------------------------------------------------------------|---------------------------------------|
 | [K8 manifests](https://www.hafifbilgiler.com/hafif-bilgiler/applications-install-on-kubernetes-cluster) | Installing various apps on Kubernetes |
 | [Jira on K8](https://github.com/kelseyhightower/jira-on-kubernetes)                                     | Jira on Kubernetes                    | 
 | [Jira on K8](https://github.com/Praqma/jira)                                                            | Jira on Kubernetes                    |
 | [Portus](http://port.us.org)                                                                            | Opensource docker registry            |
 
+# CLI Tools/ Apps [](#clitoolsapps)
+| Link | Description | 
+| --- | --- |
+|[fish](https://fishshell.com) | Fish CLI for mac |
+| [tfswitch](https://tfswitch.warrensbox.com) | Allows switching of terraform versions easily | 
+| [sshuttle](https://github.com/sshuttle/sshuttle) | Broke-mans VPN over SSH |
+|[minicom](https://wiki.emacinc.com/wiki/Getting_Started_With_Minicom) | Serial interface program | 
+| [plow](https://github.com/six-ddc/plow) | HTTP Benchmarking from the CLI |
+| [trunk](https://docs.trunk.io) | File formatting and checking tool for terraform etc | 
 
-CLI tools
-https://github.com/denysdovhan/spaceship-prompt
-https://github.com/denysdovhan/spaceship-prompt/blob/master/docs/Troubleshooting.md#why-doesnt-my-prompt-look-like-the-preview
-https://github.com/zsh-users/zsh-syntax-highlighting/blob/master/INSTALL.md
-fish
-tfswitch
-sshuttle
-minicom
-plow (http benchmarking)
-https://docs.trunk.io
+# Terminal Styling [](#terminalstyle)
+| Link                                                         | Description      | 
+|--------------------------------------------------------------|------------------|
+| [Spaceship](https://github.com/denysdovhan/spaceship-prompt) | Spaceship prompt |
+| [ZSH util](https://github.com/zsh-users/zsh-syntax-highlighting/blob/master/INSTALL.md) | ZSH Styling and autocomplete |
+
+
+
+
+
 
 General tools
 https://github.com/google/peoplemath
