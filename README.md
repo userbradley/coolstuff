@@ -71,26 +71,28 @@
 | [Unami](https://github.com/mikecao/umami)                          | Selfhosted analytics |
 | [readme stats](https://github.com/anuraghazra/github-readme-stats) | README stats         |
 
+# Documentation [](#documentation)
+
+| Link                                                                                                                                               | Description                             |
+|----------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------|
+| [NHS Docs](http://nhsuk-prototype-kit.azurewebsites.net/docs)                                                                                      | NHS Prototype documentation             |
+| [GCP CLoud ping speed](https://docs.google.com/spreadsheets/d/1lCUjdT-JNoATftGshtUIPQIl0CLb2Z8DCL-k8UAMtec/pubhtml)                                | GCP Region to region ping metrics       |
+| [Azure naming practices](https://github.com/MicrosoftDocs/cloud-adoption-framework/blob/master/docs/ready/azure-best-practices/resource-naming.md) | Azure best practices for naming         |
+| [Waypoint](https://www.waypointproject.io/docs/getting-started)                                                                                    | Waypoint project getting started        | 
+| [Jina](https://docs.jina.ai)                                                                                                                       | Deeploarning framwworks                 | 
+| [Gogle code city](https://github.com/google/CodeCity/blob/master/docs/setup.md)                                                                    | Google code city                        |
+| [TLD dns](https://github.com/google/nomulus/blob/master/docs/install.md)                                                                           | TLD Dns server programmed to run on GAE |
+| [Packer](https://devopscube.com/packer-tutorial-for-beginners/)                                                                                    | Packer getting started guide            |
+| [MD Badges](https://github.com/Naereen/badges)                                                                                                     | Markdown badges for markdown            |
+| [SaaS Blog](https://jake.nyc/words/tools-and-services-i-use-to-run-my-saas)                                                                        | Saas blog from Jake.nyc                 |
 
 
-Documentation
-http://nhsuk-prototype-kit.azurewebsites.net/docs
-https://docs.google.com/spreadsheets/d/1lCUjdT-JNoATftGshtUIPQIl0CLb2Z8DCL-k8UAMtec/pubhtml
-https://github.com/MicrosoftDocs/cloud-adoption-framework/blob/master/docs/ready/azure-best-practices/resource-naming.md
-https://www.waypointproject.io/docs/getting-started
-https://github.com/jina-ai/jina/blob/master/.github/pages/hello-world.md#-multimodal-document-search
-https://github.com/google/CodeCity/blob/master/docs/setup.md
-https://github.com/google/nomulus/blob/master/docs/install.md
-https://devopscube.com/packer-tutorial-for-beginners/
-https://github.com/Naereen/badges
-https://jake.nyc/words/tools-and-services-i-use-to-run-my-saas
+# Certification resources [](#certification)
+| Link                                                                                         | Description                      | 
+|----------------------------------------------------------------------------------------------|----------------------------------|
+| [GCloudArchitect](https://www.examtopics.com/exams/google/professional-cloud-architect/view) | Google cloud certified architect |
 
-
-Certifications
-https://www.examtopics.com/exams/google/professional-cloud-architect/view
-
-Email Lists
-https://console.dev
-
-
-
+# Email Lists [](#emaillists)
+| Link                           | Description | 
+|--------------------------------|-------------|
+| [Console](https://console.dev) | Console     |
