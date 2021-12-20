@@ -36,12 +36,12 @@
 
 
 # Kubernetes [](#kubernetes)
-| Description | Link | 
-| --- | --- |
+| Description                                                                                             | Link                                  | 
+|---------------------------------------------------------------------------------------------------------|---------------------------------------|
 | [K8 manifests](https://www.hafifbilgiler.com/hafif-bilgiler/applications-install-on-kubernetes-cluster) | Installing various apps on Kubernetes |
-| [Jira on K8](https://github.com/kelseyhightower/jira-on-kubernetes) | Jira on Kubernetes| 
-|[Jira on K8](https://github.com/Praqma/jira) | Jira on Kubernetes |
-|[Portus](http://port.us.org) | Opensource docker registry |
+| [Jira on K8](https://github.com/kelseyhightower/jira-on-kubernetes)                                     | Jira on Kubernetes                    | 
+| [Jira on K8](https://github.com/Praqma/jira)                                                            | Jira on Kubernetes                    |
+| [Portus](http://port.us.org)                                                                            | Opensource docker registry            |
 
 
 CLI tools
