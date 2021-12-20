@@ -17,23 +17,17 @@
 | [State of the cloud](https://www.hashicorp.com/state-of-the-cloud) | State of the cloud from Hashicorp | 
 | [Mist CE](https://github.com/mistio/mist-ce)                       | Mist CE cloud dashboard           |
 
+# Security [](#security)
+| Link | Desription |
+| --- | --- |
+| [Scoutsuit](https://github.com/nccgroup/ScoutSuite) | Cloud account security scanning |
+| [Cloudspolot](https://github.com/aquasecurity/cloudsploit) | Cloud account security scaning |
+| [Honeypot](https://github.com/telekom-security/tpotce#postinstall) | TMoble honeypot |
+| [TFSEC](https://github.com/aquasecurity/tfsec) | Terraform config file security scanning |
+| [trivy](https://github.com/aquasecurity/trivy) | Container scanning tool|
+| [consul](https://learn.hashicorp.com/tutorials/consul/deployment-guide#install-consul) | Hashicorp secret management tool |
 
 
-
-
-
-
-Cloud
-https://www.hashicorp.com/state-of-the-cloud?mkt_tok=ODQ1LVpMRi0xOTEAAAF--CZ_PzzAqBgqlB84FIB_pAGE6VPJ43VjzfJ8-Zxp-2IGX4YcaMlA8lsTasLdF8GIMyHtvo29GlgqAVEHbqKMyta6FWEjTpr7oitA_LyPoNf1
-https://github.com/mistio/mist-ce
-
-Security
-https://github.com/nccgroup/ScoutSuite
-https://github.com/telekom-security/tpotce#postinstall
-https://github.com/aquasecurity/tfsec
-https://github.com/aquasecurity/trivy
-https://learn.hashicorp.com/tutorials/consul/deployment-guide#install-consul
-https://github.com/aquasecurity/cloudsploit
 
 Editors
 https://stackedit.io/app
