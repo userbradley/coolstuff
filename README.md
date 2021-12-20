@@ -11,6 +11,14 @@
 | [Ansible inv with AWS](https://ibm.github.io/cloud-enterprise-examples/iac-conf-mgmt/ansible/)            | Creating an anisble inventory with AWS |
 | [Nginx headers](https://gist.github.com/kmjones1979/9ada952922e56c78dbceadd614d2df73)                     | Nginx headers                          | 
 
+# Cloud [](#cloud)
+| Link                                                               | Description                       |
+|--------------------------------------------------------------------|-----------------------------------|
+| [State of the cloud](https://www.hashicorp.com/state-of-the-cloud) | State of the cloud from Hashicorp | 
+| [Mist CE](https://github.com/mistio/mist-ce)                       | Mist CE cloud dashboard           |
+
+
+
 
 
 
