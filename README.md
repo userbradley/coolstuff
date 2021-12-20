@@ -44,25 +44,20 @@
 | [Portus](http://port.us.org)                                                                            | Opensource docker registry            |
 
 # CLI Tools/ Apps [](#clitoolsapps)
-| Link | Description | 
-| --- | --- |
-|[fish](https://fishshell.com) | Fish CLI for mac |
-| [tfswitch](https://tfswitch.warrensbox.com) | Allows switching of terraform versions easily | 
-| [sshuttle](https://github.com/sshuttle/sshuttle) | Broke-mans VPN over SSH |
-|[minicom](https://wiki.emacinc.com/wiki/Getting_Started_With_Minicom) | Serial interface program | 
-| [plow](https://github.com/six-ddc/plow) | HTTP Benchmarking from the CLI |
-| [trunk](https://docs.trunk.io) | File formatting and checking tool for terraform etc | 
+| Link                                                                  | Description                                         | 
+|-----------------------------------------------------------------------|-----------------------------------------------------|
+| [fish](https://fishshell.com)                                         | Fish CLI for mac                                    |
+| [tfswitch](https://tfswitch.warrensbox.com)                           | Allows switching of terraform versions easily       | 
+| [sshuttle](https://github.com/sshuttle/sshuttle)                      | Broke-mans VPN over SSH                             |
+| [minicom](https://wiki.emacinc.com/wiki/Getting_Started_With_Minicom) | Serial interface program                            | 
+| [plow](https://github.com/six-ddc/plow)                               | HTTP Benchmarking from the CLI                      |
+| [trunk](https://docs.trunk.io)                                        | File formatting and checking tool for terraform etc | 
 
 # Terminal Styling [](#terminalstyle)
-| Link                                                         | Description      | 
-|--------------------------------------------------------------|------------------|
-| [Spaceship](https://github.com/denysdovhan/spaceship-prompt) | Spaceship prompt |
+| Link                                                                                    | Description                  | 
+|-----------------------------------------------------------------------------------------|------------------------------|
+| [Spaceship](https://github.com/denysdovhan/spaceship-prompt)                            | Spaceship prompt             |
 | [ZSH util](https://github.com/zsh-users/zsh-syntax-highlighting/blob/master/INSTALL.md) | ZSH Styling and autocomplete |
-
-
-
-
-
 
 General tools
 https://github.com/google/peoplemath
