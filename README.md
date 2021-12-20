@@ -18,21 +18,21 @@
 | [Mist CE](https://github.com/mistio/mist-ce)                       | Mist CE cloud dashboard           |
 
 # Security [](#security)
-| Link | Desription |
-| --- | --- |
-| [Scoutsuit](https://github.com/nccgroup/ScoutSuite) | Cloud account security scanning |
-| [Cloudspolot](https://github.com/aquasecurity/cloudsploit) | Cloud account security scaning |
-| [Honeypot](https://github.com/telekom-security/tpotce#postinstall) | TMoble honeypot |
-| [TFSEC](https://github.com/aquasecurity/tfsec) | Terraform config file security scanning |
-| [trivy](https://github.com/aquasecurity/trivy) | Container scanning tool|
-| [consul](https://learn.hashicorp.com/tutorials/consul/deployment-guide#install-consul) | Hashicorp secret management tool |
+| Link                                                                                   | Desription                              |
+|----------------------------------------------------------------------------------------|-----------------------------------------|
+| [Scoutsuit](https://github.com/nccgroup/ScoutSuite)                                    | Cloud account security scanning         |
+| [Cloudspolot](https://github.com/aquasecurity/cloudsploit)                             | Cloud account security scaning          |
+| [Honeypot](https://github.com/telekom-security/tpotce#postinstall)                     | TMoble honeypot                         |
+| [TFSEC](https://github.com/aquasecurity/tfsec)                                         | Terraform config file security scanning |
+| [trivy](https://github.com/aquasecurity/trivy)                                         | Container scanning tool                 |
+| [consul](https://learn.hashicorp.com/tutorials/consul/deployment-guide#install-consul) | Hashicorp secret management tool        |
 
 # Editors [](#editors)
-| Link | Description | 
-| --- | --- |
-| [Stackedit](https://stackedit.io/app) | In browser markdown editor |
-|[JS Presentation](https://revealjs.com) | Browser based presentation software, as code|
-| [Json formatter](https://jsonformatter.org/json-parser) | json formatter online |
+| Link                                                    | Description                                  | 
+|---------------------------------------------------------|----------------------------------------------|
+| [Stackedit](https://stackedit.io/app)                   | In browser markdown editor                   |
+| [JS Presentation](https://revealjs.com)                 | Browser based presentation software, as code |
+| [Json formatter](https://jsonformatter.org/json-parser) | json formatter online                        |
 
 
 Kubernetes
