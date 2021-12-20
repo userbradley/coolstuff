@@ -27,12 +27,13 @@
 | [trivy](https://github.com/aquasecurity/trivy) | Container scanning tool|
 | [consul](https://learn.hashicorp.com/tutorials/consul/deployment-guide#install-consul) | Hashicorp secret management tool |
 
+# Editors [](#editors)
+| Link | Description | 
+| --- | --- |
+| [Stackedit](https://stackedit.io/app) | In browser markdown editor |
+|[JS Presentation](https://revealjs.com) | Browser based presentation software, as code|
+| [Json formatter](https://jsonformatter.org/json-parser) | json formatter online |
 
-
-Editors
-https://stackedit.io/app
-https://revealjs.com
-https://jsonformatter.org/json-parser
 
 Kubernetes
 https://www.hafifbilgiler.com/hafif-bilgiler/applications-install-on-kubernetes-cluster
