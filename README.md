@@ -1,16 +1,19 @@
 # CICD[](#cicd)
-| Link                             | Description                | 
-|----------------------------------|----------------------------|
-| [Travis](https://travis-ci.org/) | Travis Ci tooling homepage | 
-| [Travis with terraform](https://medium.com/swlh/intro-to-travisci-with-terraform-80e65cf975fe) | Travis with IaC|
+| Link                                                                                           | Description                | 
+|------------------------------------------------------------------------------------------------|----------------------------|
+| [Travis](https://travis-ci.org/)                                                               | Travis Ci tooling homepage | 
+| [Travis with terraform](https://medium.com/swlh/intro-to-travisci-with-terraform-80e65cf975fe) | Travis with IaC            |
+
+# Automation [](#automation)
+| Link                                                                                                      | Description                            |
+|-----------------------------------------------------------------------------------------------------------|----------------------------------------|
+| [Ansible with gcloud IaP](https://binx.io/blog/2021/03/10/how-to-tell-ansible-to-use-gcp-iap-tunneling/_) | Using ansible with gcloud IAP          |
+| [Ansible inv with AWS](https://ibm.github.io/cloud-enterprise-examples/iac-conf-mgmt/ansible/)            | Creating an anisble inventory with AWS |
+| [Nginx headers](https://gist.github.com/kmjones1979/9ada952922e56c78dbceadd614d2df73)                     | Nginx headers                          | 
 
 
 
 
-Automation
-https://binx.io/blog/2021/03/10/how-to-tell-ansible-to-use-gcp-iap-tunneling/
-https://ibm.github.io/cloud-enterprise-examples/iac-conf-mgmt/ansible/
-https://gist.github.com/kmjones1979/9ada952922e56c78dbceadd614d2df73 (nginx headers)
 
 Cloud
 https://www.hashicorp.com/state-of-the-cloud?mkt_tok=ODQ1LVpMRi0xOTEAAAF--CZ_PzzAqBgqlB84FIB_pAGE6VPJ43VjzfJ8-Zxp-2IGX4YcaMlA8lsTasLdF8GIMyHtvo29GlgqAVEHbqKMyta6FWEjTpr7oitA_LyPoNf1
