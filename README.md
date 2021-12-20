@@ -35,11 +35,14 @@
 | [Json formatter](https://jsonformatter.org/json-parser) | json formatter online                        |
 
 
-Kubernetes
-https://www.hafifbilgiler.com/hafif-bilgiler/applications-install-on-kubernetes-cluster
-https://github.com/kelseyhightower/jira-on-kubernetes
-https://github.com/Praqma/jira
-http://port.us.org
+# Kubernetes [](#kubernetes)
+| Description | Link | 
+| --- | --- |
+| [K8 manifests](https://www.hafifbilgiler.com/hafif-bilgiler/applications-install-on-kubernetes-cluster) | Installing various apps on Kubernetes |
+| [Jira on K8](https://github.com/kelseyhightower/jira-on-kubernetes) | Jira on Kubernetes| 
+|[Jira on K8](https://github.com/Praqma/jira) | Jira on Kubernetes |
+|[Portus](http://port.us.org) | Opensource docker registry |
+
 
 CLI tools
 https://github.com/denysdovhan/spaceship-prompt
