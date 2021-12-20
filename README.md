@@ -65,9 +65,13 @@
 | [Peoplemath](https://github.com/google/peoplemath) | Allows managers to better work around time |
 | [Postee](https://github.com/aquasecurity/postee)   | Simple messaging platform                  |
 
-Analytics
-https://github.com/mikecao/umami
-https://github.com/anuraghazra/github-readme-stats
+# Analytics [](#analytics)
+| Link                                                               | Description          | 
+|--------------------------------------------------------------------|----------------------|
+| [Unami](https://github.com/mikecao/umami)                          | Selfhosted analytics |
+| [readme stats](https://github.com/anuraghazra/github-readme-stats) | README stats         |
+
+
 
 Documentation
 http://nhsuk-prototype-kit.azurewebsites.net/docs
