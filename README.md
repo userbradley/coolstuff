@@ -96,3 +96,7 @@
 | Link                           | Description | 
 |--------------------------------|-------------|
 | [Console](https://console.dev) | Console     |
+
+---
+Wappalyzer
+Darkreader
