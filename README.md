@@ -17,6 +17,16 @@
 | [State of the cloud](https://www.hashicorp.com/state-of-the-cloud) | State of the cloud from Hashicorp | 
 | [Mist CE](https://github.com/mistio/mist-ce)                       | Mist CE cloud dashboard           |
 
+# Terraform [](#terraform)
+| Link                                                   | Description                                    |
+|--------------------------------------------------------|------------------------------------------------|
+| [Blast Radius](https://github.com/28mm/blast-radius)   | Terraform UI to see state                      |
+| [Rover](https://github.com/im2nguyen/rover)            | Web UI to see terraform state                  | 
+| [Driftctl](https://github.com/snyk/driftctl)           | Detect drift vs your terraforom                | 
+| [Terraboard](https://github.com/camptocamp/terraboard) | Web UI to see terraform state                  |
+| [Infracost](https://github.com/infracost/infracost)    | CLI tool to estimate cloud cost from terraform | 
+| [Gaia](https://github.com/gaia-app/gaia)               | Tool to allow selfe serve of Terraform modules | 
+
 # Security [](#security)
 | Link                                                                                   | Desription                              |
 |----------------------------------------------------------------------------------------|-----------------------------------------|
@@ -60,10 +70,14 @@
 | [ZSH util](https://github.com/zsh-users/zsh-syntax-highlighting/blob/master/INSTALL.md) | ZSH Styling and autocomplete |
 
 # General tools [](#general)
-| Link                                               | Description                                | 
-|----------------------------------------------------|--------------------------------------------|
-| [Peoplemath](https://github.com/google/peoplemath) | Allows managers to better work around time |
-| [Postee](https://github.com/aquasecurity/postee)   | Simple messaging platform                  |
+| Link                                                                                                            | Description                                     | 
+|-----------------------------------------------------------------------------------------------------------------|-------------------------------------------------|
+| [Peoplemath](https://github.com/google/peoplemath)                                                              | Allows managers to better work around time      |
+| [Postee](https://github.com/aquasecurity/postee)                                                                | Simple messaging platform                       |
+| [Wappalyzer](https://www.wappalyzer.com)                                                                        | Shows what a site is built with                 |
+| [Darkreader](darkreader.org/help/en/)                                                                           | Enables dark mode on sites that dont support it |
+| [ModHeader](https://chrome.google.com/webstore/detail/modheader/idgpnmonknjnojddfkpgkljpfnnfcklj?hl=en)         | Allows you to add custom headers                |
+| [Cookie Editor](https://chrome.google.com/webstore/detail/cookie-editor/hlkenndednhfkekhgcdicdfddnkalmdm?hl=en) | Allows you to edit cookies                      | 
 
 # Analytics [](#analytics)
 | Link                                                               | Description          | 
@@ -98,5 +112,4 @@
 | [Console](https://console.dev) | Console     |
 
 ---
-Wappalyzer
-Darkreader
+
