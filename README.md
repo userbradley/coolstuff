@@ -8,7 +8,7 @@
 | Link                                                                                                      | Description                            |
 |-----------------------------------------------------------------------------------------------------------|----------------------------------------|
 | [Ansible with gcloud IaP](https://binx.io/blog/2021/03/10/how-to-tell-ansible-to-use-gcp-iap-tunneling/_) | Using ansible with gcloud IAP          |
-| [Ansible inv with AWS](https://ibm.github.io/cloud-enterprise-examples/iac-conf-mgmt/ansible/)            | Creating an anisble inventory with AWS |
+| [Ansible inv with AWS](https://ibm.github.io/cloud-enterprise-examples/iac-conf-mgmt/ansible/)            | Creating an ansible inventory with AWS |
 | [Nginx headers](https://gist.github.com/kmjones1979/9ada952922e56c78dbceadd614d2df73)                     | Nginx headers                          | 
 
 # Cloud [](#cloud)
@@ -22,16 +22,17 @@
 |--------------------------------------------------------|------------------------------------------------|
 | [Blast Radius](https://github.com/28mm/blast-radius)   | Terraform UI to see state                      |
 | [Rover](https://github.com/im2nguyen/rover)            | Web UI to see terraform state                  | 
-| [Driftctl](https://github.com/snyk/driftctl)           | Detect drift vs your terraforom                | 
+| [Driftctl](https://github.com/snyk/driftctl)           | Detect drift vs your terraform                 | 
 | [Terraboard](https://github.com/camptocamp/terraboard) | Web UI to see terraform state                  |
 | [Infracost](https://github.com/infracost/infracost)    | CLI tool to estimate cloud cost from terraform | 
-| [Gaia](https://github.com/gaia-app/gaia)               | Tool to allow selfe serve of Terraform modules | 
+| [Gaia](https://github.com/gaia-app/gaia)               | Tool to allow self serve of Terraform modules  |
+| [Terraform docs](https://terraform-docs.io)            | Automatically creates readme files for modules | 
 
 # Security [](#security)
 | Link                                                                                   | Desription                              |
 |----------------------------------------------------------------------------------------|-----------------------------------------|
 | [Scoutsuit](https://github.com/nccgroup/ScoutSuite)                                    | Cloud account security scanning         |
-| [Cloudspolot](https://github.com/aquasecurity/cloudsploit)                             | Cloud account security scaning          |
+| [Cloudspolot](https://github.com/aquasecurity/cloudsploit)                             | Cloud account security scanning         |
 | [Honeypot](https://github.com/telekom-security/tpotce#postinstall)                     | TMoble honeypot                         |
 | [TFSEC](https://github.com/aquasecurity/tfsec)                                         | Terraform config file security scanning |
 | [trivy](https://github.com/aquasecurity/trivy)                                         | Container scanning tool                 |
